@@ -9,6 +9,7 @@
 body {
   background-color: #ffffff;
   font-family: var(--font-family);
+  text-align: center;
   margin: 0;
   padding: 0;
 }
